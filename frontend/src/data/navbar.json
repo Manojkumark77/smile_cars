@@ -1,0 +1,7 @@
+[
+  { "label": "Home", "path": "/" },
+  { "label": "Offers", "path": "/offers" },
+  { "label": "About Us", "path": "/aboutus" },
+  { "label": "Pick Your Wheels", "path": "/cars" },
+  { "label": "Contact Us", "path": "/contact" }
+]

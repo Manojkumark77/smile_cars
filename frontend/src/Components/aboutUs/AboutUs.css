@@ -1,0 +1,158 @@
+.about-container {
+  background-image: url("../../Images/about1.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 70vh;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.about-overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 40px;
+  max-width: 700px;
+  margin-left: 5%;
+  border-radius: 8px;
+}
+
+.about-title {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.about-line {
+  border: none;
+  height: 3px;
+  background-color: white;
+  width: 80px;
+  margin-bottom: 20px;
+}
+
+.about-description {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.about-buttons {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.about-btn {
+  background-color: white;
+  color: #e60000;
+  border: none;
+  padding: 15px 25px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.about-btn:hover {
+  background-color: lightgrey;
+}
+
+.icon {
+  font-size: 20px;
+}
+
+.about-info-section {
+  padding: 60px 5%;
+  background-color: white;
+  color: black;
+}
+
+.info-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  align-items: center;
+  margin-bottom: 60px;
+  max-width: 1400px;
+}
+
+.info-image {
+  max-width: 100%;
+  width: 500px;
+  border-radius: 10px;
+  margin-top: 60px;
+}
+
+.info-text {
+  max-width: 600px;
+  margin-right: 40px;
+}
+
+.info-text h2 {
+  font-size: 28px;
+  margin-bottom: 15px;
+}
+
+.highlight {
+  color: red;
+  font-weight: bold;
+}
+
+.info-text p {
+  font-size: 16px;
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+.cta-button {
+  background: orangered;
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 14px 25px;
+  border-radius: 30px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.cta-button:hover {
+  background: red;
+  color: black;
+}
+
+.stats-section {
+  text-align: center;
+}
+
+.stats-title {
+  color: red;
+  font-size: 26px;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+.stats-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.stat-card {
+  background-color: lightgrey;
+  padding: 30px 20px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.stat-icon {
+  font-size: 30px;
+  color: red;
+  margin-bottom: 10px;
+}

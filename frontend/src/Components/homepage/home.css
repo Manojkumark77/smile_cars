@@ -1,0 +1,72 @@
+.home {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px;
+  gap: 40px;
+  max-width: 1500px;
+}
+
+.home-text {
+  flex: 1 1 500px;
+  max-width: 650px;
+  text-align: left;
+}
+
+.home-text h1 {
+  font-size: 2.25rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  line-height: 1.4;
+  letter-spacing: 1px;
+  color: black;
+}
+
+.home-text h3 {
+  font-size: 1.15rem;
+  margin-bottom: 10px;
+  color: black;
+}
+
+.home-text .highlight {
+  color: blue;
+}
+
+.home-text .red-text {
+  color: red;
+}
+
+.home-text p {
+  font-size: 1rem;
+  margin-bottom: 20px;
+  color: black;
+  letter-spacing: 0.5px;
+}
+
+.call-btn {
+  background-color: red;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 30px;
+  font-size: 1rem;
+  font-weight: bold;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.call-btn:hover {
+  background-color: darkred;
+}
+
+.home-image {
+  flex: 1 1 400px;
+  text-align: center;
+}
+
+.home-image img {
+  max-width: 600px;
+  height: auto;
+}
