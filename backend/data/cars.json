@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "brand": "Mahindra",
+    "model": "TUV 300",
+    "image": "https://imgd.aeplcdn.com/1920x1080/cw/ec/39470/Mahindra-TUV300-Right-Front-Three-Quarter-155763.jpg?wm=0&q=80&q=80",
+    "fuel": "Diesel",
+    "seater": 7,
+    "transmission": "Manual",
+    "pricePerDay": 2500,
+    "description": "When you want to drive a vehicle that has a rolling definition of toughness and strength, you ought to test Mahindra TUV 300 at least once on a road trip. The Indian market is full of vehicles that promise excellent driving experience, but very few cars live up to their reputation. The Mahindra TUV 300 is a car that is not easy to intimidate because it is probably the most robust SUV in the country. When you are on a long road trip, you do not like to compromise on comfort, luxury, and safety; it is unlike going to a market to fetch groceries. With features like steering mounted controls, power windows, electrically adjustable mirrors, rear wiper, and rear AC vent, every passenger in the car can travel with immense comfort."
+  },
+  {
+    "id": 2,
+    "brand": "Toyoto",
+    "model": "Fortuner",
+    "image": "https://superluxurycars.in/wp-content/uploads/2023/01/fortuner-gxl-automatic-melville-toyota-2-1160x665.png",
+    "fuel": "Diesel",
+    "seater": 7,
+    "transmission": "Automatic",
+    "pricePerDay": 4500,
+    "description": "The Toyota Fortuner is the ultimate full-size SUV for those seeking luxury, space, and performance on every drive. With premium interiors, high ground clearance, a powerful diesel engine, and advanced safety features, the Fortuner is built for adventure. Whether it's a rugged mountain trail or a smooth highway, this 7-seater ensures you arrive in style and comfort."
+  },
+  {
+    "id": 3,
+    "brand": "Mahindra",
+    "model": "KUV 100",
+    "image": "https://imgd.aeplcdn.com/1056x594/n/9abrb5a_1433462.jpg?q=80",
+    "fuel": "Petrol",
+    "seater": 5,
+    "transmission": "Manual",
+    "pricePerDay": 2000,
+    "description": "The Mahindra KUV 100 redefines the compact SUV segment with its sporty look and dynamic drive. Ideal for city runs and weekend escapes, it offers spacious interiors, reliable performance, and high ground clearance. The perfect mix of style and utility, this 5-seater is a great pick for those who love commanding the road in compact comfort."
+  },
+  {
+    "id": 4,
+    "brand": "Ford",
+    "model": "Ecosport",
+    "image": "https://www.financialexpress.com/wp-content/uploads/2024/09/Ford-Endeavour-Everest.jpg",
+    "fuel": "Petrol",
+    "seater": 5,
+    "transmission": "Automatic",
+    "pricePerDay": 2200,
+    "description": "Smart, bold, and urban—Ford Ecosport is the SUV that fits every lifestyle. Packed with features like automatic climate control, keyless entry, and a responsive infotainment system, it provides exceptional driving dynamics and comfort. A go-anywhere attitude meets city-savvy tech in this stylish and capable 5-seater."
+  },
+  {
+    "id": 5,
+    "brand": "Audi",
+    "model": "Audi A4",
+    "image": "https://blog.enginefitted.co.uk/wp-content/uploads/2016/07/Audi-A4.png",
+    "fuel": "Petrol",
+    "seater": 5,
+    "transmission": "Automatic",
+    "pricePerDay": 5000,
+    "description": "The Audi A4 is a luxury sedan that blends elegance with performance. With its turbocharged engine, premium leather interiors, and intelligent infotainment system, it delivers a refined driving experience. Ideal for business or leisure travel, the A4 makes every journey sophisticated and smooth."
+  },
+  {
+    "id": 6,
+    "brand": "Tata",
+    "model": "Safari",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.2P73XAfZIMlCBrA7nJ2g2gAAAA?rs=1&pid=ImgDetMain",
+    "fuel": "Diesel",
+    "seater": 7,
+    "transmission": "Manual",
+    "pricePerDay": 3500,
+    "description": "The Tata Safari is an icon among SUVs, delivering unmatched road presence and reliability. Designed for long road trips and family vacations, this 7-seater offers powerful performance, a spacious cabin, and rugged build quality. Whether it’s hills or highways, the Safari handles it all with ease."
+  },
+  {
+    "id": 7,
+    "brand": "Honda",
+    "model": "Aura",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.VK5zu9tOjh-mrYGfAR_wFgHaFj?w=825&h=618&rs=1&pid=ImgDetMain",
+    "fuel": "Petrol",
+    "seater": 5,
+    "transmission": "Manual",
+    "pricePerDay": 2100,
+    "description": "The Honda Aura is a sleek sedan built for the modern commuter. With its stylish design, fuel-efficient petrol engine, and smooth manual transmission, it’s perfect for city and highway driving. Comfortable interiors, ample boot space, and a tech-loaded cabin make the Aura an everyday delight."
+  },
+  {
+    "id": 8,
+    "brand": "Tempo",
+    "model": "Force",
+    "image": "https://livingkashmirtravels.in/wp-content/uploads/2015/02/Tempo-Traveller-17-Seater.png",
+    "fuel": "Diesel",
+    "seater": 17,
+    "transmission": "Manual",
+    "pricePerDay": 5000,
+    "description": "The Tempo Traveller 17-Seater is designed for large groups and long-distance comfort. Spacious, reliable, and built for Indian roads, it offers plenty of legroom and luggage space, making it ideal for family tours, group trips, and corporate travel. Experience hassle-free, air-conditioned travel with comfort for all."
+  },
+  {
+    "id": 9,
+    "brand": "Mahindra",
+    "model": "Scorpio",
+    "image": "https://images.91wheels.com/assets/b_images/main/models/profile/profile1731476496.jpg?width=420&q=60?w=420&q=60",
+    "fuel": "Diesel",
+    "seater": 7,
+    "transmission": "Manual",
+    "pricePerDay": 2800,
+    "description": "The Mahindra Scorpio stands as a bold symbol of power and performance. Its tough chassis, muscular design, and roomy interiors make it perfect for city streets and rough terrains alike. With its high seating position and rugged capabilities, it’s a favorite among SUV lovers across India."
+  },
+  {
+    "id": 10,
+    "brand": "Audi",
+    "model": "Audi Q5",
+    "image": "https://www.pngarts.com/files/8/White-Audi-Car-PNG-High-Quality-Image.png",
+    "fuel": "Petrol",
+    "seater": 5,
+    "transmission": "Automatic",
+    "pricePerDay": 6000,
+    "description": "The Audi Q5 is a luxury SUV that effortlessly combines technology, style, and all-wheel performance. Its plush interiors, advanced driver assistance systems, and smooth automatic transmission ensure every ride is comfortable and commanding. Ideal for those who demand nothing but the best on the road."
+  },
+  {
+    "id": 11,
+    "brand": "Tata",
+    "model": "Zest",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.2P73XAfZIMlCBrA7nJ2g2gAAAA?rs=1&pid=ImgDetMain",
+    "fuel": "Diesel",
+    "seater": 5,
+    "transmission": "Manual",
+    "pricePerDay": 1800,
+    "description": "The Tata Zest offers a refined driving experience in a compact sedan body. Its powerful diesel engine, comfortable seating, and efficient mileage make it a smart choice for urban drivers. Whether you're heading to work or planning a weekend drive, the Zest delivers every time."
+  },
+  {
+    "id": 12,
+    "brand": "Toyoto",
+    "model": "Innova",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.xVwZAf_i1Le5TAl4hjs5TAHaE8?w=900&h=600&rs=1&pid=ImgDetMain",
+    "fuel": "Diesel",
+    "seater": 7,
+    "transmission": "Manual",
+    "pricePerDay": 3200,
+    "description": "A trusted name in family travel, the Toyota Innova is known for its space, comfort, and reliability. This 7-seater MPV is perfect for long journeys, offering premium seating, smooth suspension, and strong performance. With ample luggage space and Toyota’s legendary build, it’s always road-trip ready."
+  },
+  {
+    "id": 13,
+    "brand": "Honda",
+    "model": "Civic",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.tlBddhgfmOmvunWVsJZT4wHaEK?rs=1&pid=ImgDetMain",
+    "fuel": "Petrol",
+    "seater": 5,
+    "transmission": "Automatic",
+    "pricePerDay": 3300,
+    "description": "The Honda Civic is a sporty, premium sedan designed for the passionate driver. With aerodynamic lines, a powerful engine, and a sleek cabin, the Civic turns every drive into an experience. Its balance of performance and efficiency makes it the go-to for those who love driving."
+  },
+  {
+    "id": 14,
+    "brand": "Tempo",
+    "model": "Force",
+    "image": "https://5.imimg.com/data5/OO/FT/MY-9805493/15-seater-tempo-traveller-rental-1000x1000.jpg",
+    "fuel": "Diesel",
+    "seater": 15,
+    "transmission": "Manual",
+    "pricePerDay": 4800,
+    "description": "Tailored for medium-sized groups, the 15-Seater Tempo Traveller ensures safe and comfortable journeys. Whether you're exploring tourist destinations or on a business retreat, this van offers excellent seating capacity, robust diesel performance, and a smooth ride across all terrains."
+  },
+  {
+    "id": 15,
+    "brand": "Ford",
+    "model": "Bronco",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.fmSyfryRs0_8yNqFlBDO5AHaE8?rs=1&pid=ImgDetMain",
+    "fuel": "Petrol",
+    "seater": 5,
+    "transmission": "Automatic",
+    "pricePerDay": 3700,
+    "description": "Built for the wild, the Ford Bronco is an adventurous SUV that thrives off the beaten path. With its rugged design, high ground clearance, and powerful petrol engine, it’s made for thrill-seekers. Take it to the mountains, deserts, or any trail—Bronco’s built to conquer."
+  },
+  {
+    "id": 16,
+    "brand": "Tata",
+    "model": "Punch",
+    "image": "https://media.zigcdn.com/media/model/2021/Oct/punch_600x400.jpg",
+    "fuel": "Petrol",
+    "seater": 5,
+    "transmission": "Manual",
+    "pricePerDay": 1900,
+    "description": "The Tata Punch is a micro-SUV with big aspirations. Perfect for city driving, it offers a high seating position, youthful design, and dependable performance. Compact on the outside and surprisingly roomy inside, the Punch is ideal for first-time SUV buyers or urban explorers."
+  }
+]

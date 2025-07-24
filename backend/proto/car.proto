@@ -1,0 +1,104 @@
+syntax = "proto3";
+
+package car;
+option go_package = "backend/proto";
+
+import "google/api/annotations.proto";
+
+import "google/protobuf/timestamp.proto";
+
+service CarService {
+  rpc ListCars (ListCarsRequest) returns (ListCarsResponse) {
+    option (google.api.http) = {
+      get: "/cars"
+    };
+  }
+
+  rpc CreateBooking (CreateBookingRequest) returns (CreateBookingResponse) {
+    option (google.api.http) = {
+      post: "/bookings"
+      body: "*"
+    };
+  }
+  rpc SignUp(SignUpRequest) returns (SignUpResponse) {
+    option (google.api.http) = {
+      post: "/signup"
+      body: "*"
+    };
+  }
+
+  rpc Login(LoginRequest) returns (LoginResponse) {
+    option (google.api.http) = {
+      post: "/login"
+      body: "*"
+    };
+  }
+}
+
+message Car {
+  uint32 id = 1;
+  string brand = 2;
+  string model = 3;
+  string image = 4;
+  string fuel = 5;
+  uint32 seater = 6;
+  string transmission = 7;
+  uint32 pricePerDay = 8;
+  string description = 9;
+}
+
+message ListCarsRequest {
+  string brand = 1;
+  google.protobuf.Timestamp pickup_time = 2;
+  google.protobuf.Timestamp return_time = 3;
+}
+
+
+message ListCarsResponse {
+  repeated Car cars = 1;
+  repeated string brands = 2;
+}
+
+
+message CreateBookingRequest {
+  uint32                      carId      = 1;
+  uint32                      userId     = 2;
+  string                      contact    = 3;
+  string                      license    = 4;
+  float                       amount     = 5; 
+  google.protobuf.Timestamp   pickupTime = 6;
+  google.protobuf.Timestamp   returnTime = 7;
+}
+
+message CreateBookingResponse {
+  string message = 1;
+}
+
+message User {
+  int64 id = 1;
+  string name = 2;
+  string email = 3;
+  string pwd = 4;
+}
+
+message SignUpRequest {
+  string name = 1;
+  string email = 2;
+  string pwd = 3;
+}
+
+message SignUpResponse {
+  string message = 1;
+  User user = 2;
+}
+
+message LoginRequest {
+  string email = 1;
+  string pwd = 2;
+}
+
+message LoginResponse {
+  bool success = 1;
+  string message = 2;
+  User user = 3;
+}
